@@ -11,7 +11,6 @@
       <p style="text-align:center">Computo en la nube</p></h1>
   <h1 class="display-4"></br>Modelos de servicio</h1>
   <h2
-      <img src="servicios.jpg" class="card-img-top" alt="...">
       <p class="lead">Saas-Software as a Service</p></h2>
   <hr class="my-4">
   <p>Aplicaciones que los clientes pueden utilizar desde distintos dispositivos, ejecutándolas en la infraestructura de la nube, se accede a ellas a través de APIS o WEB, con acceso sencillo, ya que no se tiene que gestionar, instalar ni actualizar el software, ejemplo Google Drive, Gmail.</p>
@@ -30,7 +29,8 @@
   <hr class="my-4">
   <p>Este tipo de servicio, controla las capacidades de almacenamiento, equipos de red, memoria, CPU, espacio en disco y centros de datos bajo demanda. Se puede hacer uso de máquinas virtuales, donde es posible que varios usuarios compartan los recursos de una misma maquina física, por lo que proporciona una infraestructura  de forma rápida y económica, además de ser escalable, ejemplo: Google Cloud, Amazon Web Services.</p>
 </div>
-
+</div>
+ <img src="servicios.jpg">
 </div>
 	<p class="card-text">Lidia Aldama Hernandez.</p>
   </div>
