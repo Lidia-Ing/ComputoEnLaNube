@@ -11,7 +11,7 @@
       <p style="text-align:center">Computo en la nube</p></h1>
   <h1 class="display-4"></br>Modelos de servicio</h1>
   <h2
-      <img src="C:\imagenes\servicios.jpg" class="card-img-top" alt="...">
+      <img src="servicios.jpg" class="card-img-top" alt="...">
       <p class="lead">Saas-Software as a Service</p></h2>
   <hr class="my-4">
   <p>Aplicaciones que los clientes pueden utilizar desde distintos dispositivos, ejecutándolas en la infraestructura de la nube, se accede a ellas a través de APIS o WEB, con acceso sencillo, ya que no se tiene que gestionar, instalar ni actualizar el software, ejemplo Google Drive, Gmail.</p>
