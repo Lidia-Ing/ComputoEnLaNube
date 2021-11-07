@@ -30,9 +30,10 @@
   <p>Este tipo de servicio, controla las capacidades de almacenamiento, equipos de red, memoria, CPU, espacio en disco y centros de datos bajo demanda. Se puede hacer uso de máquinas virtuales, donde es posible que varios usuarios compartan los recursos de una misma maquina física, por lo que proporciona una infraestructura  de forma rápida y económica, además de ser escalable, ejemplo: Google Cloud, Amazon Web Services.</p>
 </div>
 </div>
- <img src="servicios.jpg">
+</br><img src="https://cloudcomputinglanube.files.wordpress.com/2016/11/221.jpg">
+ 
 </div>
-	<p class="card-text">Lidia Aldama Hernandez.</p>
+	</br></br><p class="card-text ">Lidia Aldama Hernandez.</p>
   </div>
 </div>
 </body>
